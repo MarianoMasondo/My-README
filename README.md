@@ -1,4 +1,4 @@
-###<div align="center">Hola👋! Mi nombre es Mariano y soy un desarrollador web Full Stack🙂</div>  
+<div align="center">Hola👋! Mi nombre es Mariano y soy un desarrollador web Full Stack🙂</div>  
 
 <br/>  
    
@@ -13,9 +13,6 @@
   
 
 - ⚡ Fun fact: Una taza de café es el motor para arrancar el día! ☕💪  
-  
-
-![]()  
   
 
 <br/>  
