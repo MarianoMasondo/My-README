@@ -1,4 +1,4 @@
-### <div align="center">Hola👋! Mi nombre es Mariano y soy un desarrollador web Full Stack🙂</div>  
+## <div align="center">Hola👋! Mi nombre es Mariano y soy un desarrollador web Full Stack🙂</div>  
 
 <br/>  
    
